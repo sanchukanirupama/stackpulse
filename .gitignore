@@ -1,0 +1,45 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build output
+*.test
+*.out
+
+# Go build cache & intermediate files
+*.o
+*.a
+
+# Output of `go build` and `go install`
+/bin/
+/build/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories (if using vendoring)
+vendor/
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# Environment files (if any)
+.env
+.env.*
+
+/scripts
+PUBLISHING_GUIDE.md
+Dockerfile
+.goreleaser.yml
+.github/workflows/release.yml
