@@ -1,4 +1,4 @@
-# StackPulse - Node.js Memory & CPU Monitor
+# StackPulse - Node.js Memory & CPU Monitoring Tool
 
 A lightweight monitoring tool for Node.js applications that tracks CPU usage, memory consumption, and performance metrics in real-time.
 
@@ -30,13 +30,13 @@ make install
 ### Homebrew (macOS/Linux)
 
 ```bash
-brew install stackpulse
+# Coming soon
 ```
 
 ### Linux Package Managers
 
 ```bash
-# Coming soon - APT/YUM packages
+# Coming soon
 ```
 
 ## Quick Start
